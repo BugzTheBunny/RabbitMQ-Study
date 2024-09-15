@@ -1,0 +1,37 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.tlog
+*.cache
+*.ilk
+*.meta
+*.pdb
+*.obj
+
+# Dependency directories
+packages/
+node_modules/
+
+# Visual Studio Code settings
+.vscode/
+
+# NuGet packages
+*.nupkg
+project.lock.json
